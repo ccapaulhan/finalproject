@@ -1,0 +1,23 @@
+body {
+  background-image: url("https://i0.wp.com/cdn.wallpapersafari.com/17/54/semGRM.jpg");
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+p.thick {
+  font-weight: bold;
+}
+
+<h1 style="color:White;">Hello World</h1>
+<p style="color:White;">Lorem ipsum...</p>
+<p style="color:White;">Ut wisi enim...</p>
